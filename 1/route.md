@@ -1,6 +1,6 @@
 # 重新导向
 
-将在5秒内自动跳转，[立即跳转](https://forms.cloud.microsoft/r/z7vXhCLs7u)
+将在3秒内自动跳转，[立即跳转](https://forms.cloud.microsoft/r/z7vXhCLs7u)
 
 <script>
 // 倒计时重定向函数
